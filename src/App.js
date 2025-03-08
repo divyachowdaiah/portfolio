@@ -16,9 +16,9 @@ const Portfolio = () => {
 
   return (
     <div>
-      <title>From Learning to Creating | My Portfolio</title>
-      <header>
-        <h1>DIVYA</h1>
+       <header>
+        <h1>From Learning to Creating | My Portfolio</h1>
+        <center><h1>DIVYA</h1></center>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
