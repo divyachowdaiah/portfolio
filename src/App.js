@@ -15,10 +15,10 @@ const Portfolio = () => {
   };
 
   return (
-    <div>
+    <div  class="header">
        <header>
-        <h1 color="black">From Learning to Creating | My Portfolio</h1>
-        <center><h1>DIVYA</h1></center>
+        <h1>From Learning to Creating | My Portfolio</h1>
+        <center><h2><i>DIVYA</i></h2></center>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
